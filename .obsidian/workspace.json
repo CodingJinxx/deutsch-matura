@@ -164,6 +164,16 @@
                 }
               }
             }
+          },
+          {
+            "id": "2a16159488c2035d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clockwork Orange Anki Cards.md"
+              }
+            }
           }
         ]
       },
@@ -231,8 +241,8 @@
   "active": "c2c6d30125e383c4",
   "lastOpenFiles": [
     "Clockwork Orange.md",
-    "Book Research.md",
     "Clockwork Orange Anki Cards.md",
+    "Book Research.md",
     "Das vierte Gebot.md",
     "Der Verschwender.md",
     "Der Trafikant.md",
