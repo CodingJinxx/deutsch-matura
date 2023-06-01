@@ -1,0 +1,12 @@
+Nadsat ist eine erfundene Sprache die in [[Clockwork Orange]] vorkommt. Eine Mischung aus Russisch und Englisch
+- Dim - Dumm
+- Droog - Freund
+- Gulliver - Kopf
+- Horrorshow - Sehr Gut
+- Moloke - Milch
+- Nadsat - Teenager
+- Pe und Em - Papa und Mama
+- Reinraus - Sex
+- Tollschock - Schlag
+- Das Ultrabrutale - Vergewaltigung
+- Vino, der Rote - Blut

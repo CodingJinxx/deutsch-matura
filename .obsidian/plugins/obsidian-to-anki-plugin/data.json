@@ -1,0 +1,88 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Basic": "^Q: ((?:.+\\n)*)\\n*A: (.+(?:\\n(?:^.{1,3}$|^.{4}(?<!<!--).*))*)",
+      "Basic (and reversed card)": "",
+      "Basic (optional reversed card)": "",
+      "Basic (type in the answer)": "",
+      "Cloze": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Basic": "Front",
+      "Basic (and reversed card)": "Front",
+      "Basic (optional reversed card)": "Front",
+      "Basic (type in the answer)": "Front",
+      "Cloze": "Text"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {
+      "Day Planners": "",
+      "External Materials": ""
+    },
+    "FOLDER_TAGS": {
+      "Day Planners": "",
+      "External Materials": ""
+    },
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    }
+  },
+  "Added Media": [],
+  "File Hashes": {
+    "Index.md": "e5d200ee3ba4452961f833131677cbdf",
+    "Test.md": "302e7bced108f52d6040af99db33ab74",
+    "Day Planners/Day Planner-20230601.md": "c003711fcabdf5029c47510d2e5d41e8",
+    "Test3.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Ludovico Method.md": "1fa05ddfbaa357984a0008e7d4db47d4",
+    "Nadsat Sprache.md": "5d5a8fa11fcb010840d7413bba6cdbf2",
+    "Die Verwandlung.md": "83d853007dffd72f118e6f0e2942c8cc",
+    "Der Verschwender.md": "05b6700df02eb3c168244591a3a0fe72",
+    "Das vierte Gebot.md": "2a1424ca972496ddf956c4ffd940e26b",
+    "Der Trafikant.md": "d460a2705b7a1fc83720bae8b93f1150",
+    "External Materials/Oliver Notion.md": "3f873819109ebee424efde1264491ea5",
+    "Clockwork Orange.md": "cce24518177b3729215d29106b54f03d",
+    "Book Research.md": "b6291d36dffea6449f7d714a548e1fb2",
+    "Clockwork Orange Anki Cards.md": "0d1e7c2a72935ea41b471f6ddf73e3fa"
+  },
+  "fields_dict": {
+    "Basic": [
+      "Front",
+      "Back"
+    ],
+    "Basic (and reversed card)": [
+      "Front",
+      "Back"
+    ],
+    "Basic (optional reversed card)": [
+      "Front",
+      "Back",
+      "Add Reverse"
+    ],
+    "Basic (type in the answer)": [
+      "Front",
+      "Back"
+    ],
+    "Cloze": [
+      "Text",
+      "Back Extra"
+    ]
+  }
+}
