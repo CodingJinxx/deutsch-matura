@@ -3,6 +3,8 @@ language: DE
 tags: book dystopie
 --- 
 
+Time estimated long
+
 
 # Quellen
 https://www.sparknotes.com/lit/handmaid/

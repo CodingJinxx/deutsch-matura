@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Der Report der Magd.md",
+                "file": "Book Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Der Report der Magd.md",
+                "file": "Book Research.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Der Report der Magd.md"
+                "file": "Book Research.md"
               }
             }
           }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Der Report der Magd.md",
+                "file": "Book Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Der Report der Magd.md",
+                "file": "Book Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,15 +240,15 @@
   },
   "active": "c2c6d30125e383c4",
   "lastOpenFiles": [
-    "Index.md",
-    "Der Report der Magd.md",
-    "Book Research.md",
-    "Clockwork Orange.md",
-    "Clockwork Orange Anki Cards.md",
     "Das vierte Gebot.md",
+    "Clockwork Orange.md",
+    "Book Research.md",
+    "Die Verwandlung.md",
+    "Der Report der Magd.md",
+    "Index.md",
+    "Clockwork Orange Anki Cards.md",
     "Der Verschwender.md",
     "Der Trafikant.md",
-    "Die Verwandlung.md",
     "Ludovico Method.md",
     "Nadsat Sprache.md",
     "External Materials/Pasted image 20230601132314.png",
