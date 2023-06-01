@@ -129,4 +129,4 @@ https://literaturhandbuch.de/inhaltsangabe-uhrwerk-orange-von-anthony-burgess/
 https://www.mediamanual.at/mediamanual/mm2/mla/2008/pdf/clockwork-orange.pdf
 https://www.getabstract.com/de/zusammenfassung/die-uhrwerk-orange/6984
 https://www.youtube.com/watch?v=fHhCBqMFxnE
-
+https://www.sparknotes.com/lit/clockworkorange

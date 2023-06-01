@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clockwork Orange Anki Cards.md",
+                "file": "Der Report der Magd.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Clockwork Orange Anki Cards.md",
+                "file": "Der Report der Magd.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clockwork Orange Anki Cards.md"
+                "file": "Der Report der Magd.md"
               }
             }
           }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clockwork Orange Anki Cards.md",
+                "file": "Der Report der Magd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clockwork Orange Anki Cards.md",
+                "file": "Der Report der Magd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,14 +240,15 @@
   },
   "active": "c2c6d30125e383c4",
   "lastOpenFiles": [
+    "Index.md",
+    "Der Report der Magd.md",
+    "Book Research.md",
     "Clockwork Orange.md",
     "Clockwork Orange Anki Cards.md",
-    "Book Research.md",
     "Das vierte Gebot.md",
     "Der Verschwender.md",
     "Der Trafikant.md",
     "Die Verwandlung.md",
-    "Index.md",
     "Ludovico Method.md",
     "Nadsat Sprache.md",
     "External Materials/Pasted image 20230601132314.png",
