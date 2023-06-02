@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book Research.md",
+                "file": "Clockwork Orange Anki Cards.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Book Research.md",
+                "file": "Clockwork Orange Anki Cards.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book Research.md"
+                "file": "Clockwork Orange Anki Cards.md"
               }
             }
           }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book Research.md",
+                "file": "Clockwork Orange Anki Cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book Research.md",
+                "file": "Clockwork Orange Anki Cards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,9 +240,10 @@
   },
   "active": "c2c6d30125e383c4",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20230602.md",
+    "Book Research.md",
     "Das vierte Gebot.md",
     "Clockwork Orange.md",
-    "Book Research.md",
     "Die Verwandlung.md",
     "Der Report der Magd.md",
     "Index.md",
