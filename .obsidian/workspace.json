@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "4e57f363741221cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Der Report der Magd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4fb959c68eb4c6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "29e5c2fdb40b41cc",
             "type": "leaf",
             "state": {
@@ -64,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Der Report der Magd.md",
+                "file": "Index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Der Report der Magd.md"
+                "file": "Index.md"
               }
             }
           }
@@ -198,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Der Report der Magd.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Der Report der Magd.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +249,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 825.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,18 +263,21 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "c2c6d30125e383c4",
+  "active": "a4fb959c68eb4c6e",
   "lastOpenFiles": [
+    "Der Report der Magd.md",
+    "Der Report der Magd Anki Cards.md",
+    "Index.md",
+    "Econowives.md",
+    "Der Vorleser.md",
+    "Die Verwandlung.md",
+    "Der Trafikant.md",
     "Clockwork Orange Anki Cards.md",
+    "Clockwork Orange.md",
     "Day Planners/Day Planner-20230602.md",
     "Book Research.md",
     "Das vierte Gebot.md",
-    "Clockwork Orange.md",
-    "Die Verwandlung.md",
-    "Der Report der Magd.md",
-    "Index.md",
     "Der Verschwender.md",
-    "Der Trafikant.md",
     "Ludovico Method.md",
     "Nadsat Sprache.md",
     "External Materials/Pasted image 20230601132314.png",
