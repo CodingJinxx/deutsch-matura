@@ -14,3 +14,6 @@ read: false
 # Zusammenschriften von anderen
 ## Oliver
 https://seen-cross-b83.notion.site/Die-Verwandlung-7f438fd6aa9f46bc83465fec9b4cff73
+
+## Simon
+![[Simon_Bücher_Zusammenfassung.pdf#page=59]]

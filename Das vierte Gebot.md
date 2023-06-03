@@ -8,3 +8,6 @@ read: true
 ## Johannes
 
 ![[Johannes_Bücher_Zusammenfassung.pdf#page=4]]
+
+## Simon
+![[Simon_Bücher_Zusammenfassung.pdf#page=7]]

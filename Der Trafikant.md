@@ -9,3 +9,5 @@ read: false
 ## Johannes
 
 ![[Johannes_Bücher_Zusammenfassung.pdf#page=10]]
+## Simon 
+![[Simon_Bücher_Zusammenfassung.pdf#page=10]]

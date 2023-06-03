@@ -32,24 +32,24 @@
             }
           },
           {
-            "id": "4e57f363741221cc",
+            "id": "a4fb959c68eb4c6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Der Report der Magd.md",
+                "file": "Wer die Nachtigall Stört.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a4fb959c68eb4c6e",
+            "id": "e73acd047faa0e5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Clockwork Orange.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nadsat Sprache.md",
+                "file": "Der Report der Magd.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Index.md",
+                "file": "Wer die Nachtigall Stört.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Wer die Nachtigall Stört.md"
               }
             }
           }
@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Wer die Nachtigall Stört.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Wer die Nachtigall Stört.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,28 +265,33 @@
   },
   "active": "a4fb959c68eb4c6e",
   "lastOpenFiles": [
-    "Der Report der Magd.md",
-    "Der Report der Magd Anki Cards.md",
     "Index.md",
-    "Econowives.md",
-    "Der Vorleser.md",
     "Die Verwandlung.md",
+    "Der Verschwender.md",
+    "Der Report der Magd.md",
+    "External Materials/Oliver Notion.md",
+    "External Materials/Pasted image 20230601132314.png",
+    "External Materials/schaefer_clock-3.jpg",
+    "External Materials/Simon_Bücher_Zusammenfassung.pdf",
+    "External Materials/Unbenannt.jpg",
+    "Wer die Nachtigall Stört.md",
+    "Der Vorleser.md",
+    "External Materials/Johannes_Bücher_Zusammenfassung.pdf",
+    "Untergang des Hauses Usher.md",
     "Der Trafikant.md",
-    "Clockwork Orange Anki Cards.md",
+    "Econowives.md",
+    "Das vierte Gebot.md",
+    "Der Report der Magd Anki Cards.md",
     "Clockwork Orange.md",
+    "Nadsat Sprache.md",
+    "Der Vorleser Anki Cards.md",
+    "Clockwork Orange Anki Cards.md",
+    "Day Planners/Day Planner-20230603.md",
     "Day Planners/Day Planner-20230602.md",
     "Book Research.md",
-    "Das vierte Gebot.md",
-    "Der Verschwender.md",
     "Ludovico Method.md",
-    "Nadsat Sprache.md",
-    "External Materials/Pasted image 20230601132314.png",
     "Personenkonstellation Clockwork Orange.canvas",
-    "External Materials/Unbenannt.jpg",
-    "External Materials/schaefer_clock-3.jpg",
     "External Materials/schaefer_clock-3 1.jpg",
-    "External Materials/Oliver Notion.md",
-    "External Materials/Johannes_Bücher_Zusammenfassung.pdf",
     "External Materials",
     "Day Planners/Day Planner-20230601.md",
     "Test.md",
