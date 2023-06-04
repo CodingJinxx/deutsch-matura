@@ -6,6 +6,7 @@
       {
         "id": "4d7cb1bc1f621de5",
         "type": "tabs",
+        "dimension": 8.412866737363025,
         "children": [
           {
             "id": "d678fce68d77a772",
@@ -20,11 +21,49 @@
             }
           },
           {
-            "id": "7688cfb6b9c903e4",
+            "id": "68489e2bdf7cc7b2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GPT Fragen Prompt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49340a8b302b704d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Im Westen nichts Neues Anki Cards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8164fef8c3559ff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Im Westen nichts Neues.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b445edd3a62ca0f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "External Materials/Simon_Bücher_Zusammenfassung.pdf"
+              }
             }
           },
           {
@@ -150,7 +189,74 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "9ed1a8a935aa73c4",
+        "type": "tabs",
+        "dimension": 7.069635913750442,
+        "children": [
+          {
+            "id": "7688cfb6b9c903e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "External Materials/Oliver Notion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b56a5c5747ab6d0d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e99b743043e711f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traumnovelle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e41018b2d2ed784",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "61874830dd219cb0",
+        "type": "tabs",
+        "dimension": 84.51749734888652,
+        "children": [
+          {
+            "id": "67c9a76bdb3be770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Der Verschwender.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,6 +328,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Der Verschwender.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -255,7 +362,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Der Verschwender.md"
+              }
             }
           }
         ]
@@ -281,6 +390,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Der Verschwender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,6 +407,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Der Verschwender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,46 +432,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7688cfb6b9c903e4",
+  "active": "67c9a76bdb3be770",
   "lastOpenFiles": [
+    "Der Verschwender Anki Cards.md",
+    "Der Verschwender.md",
+    "Index.md",
+    "External Materials/Pasted image 20230604202928.png",
+    "External Materials/Johannes_Bücher_Zusammenfassung.pdf",
+    "Traumnovelle Anki Cards.md",
+    "Traumnovelle.md",
+    "External Materials/Oliver Notion.md",
+    "GPT Fragen Prompt.md",
+    "Der Trafikant Anki Cards.md",
+    "Im Westen nichts Neues Anki Cards.md",
+    "Das vierte Gebot.md",
+    "Der Trafikant.md",
     "Die Verwandlung.md",
+    "Das vierte Gebot Anki Cards.md",
+    "External Materials/Pasted image 20230604200003.png",
+    "Im Westen nichts Neues.md",
+    "Schachnovelle.md",
+    "External Materials/Pasted image 20230604194401.png",
+    "Untergang des Hauses Usher.md",
+    "Der Vorleser.md",
+    "External Materials/Pasted image 20230604193231.png",
+    "Untergang des Hauses Usher Anki Cards.md",
+    "External Materials/Pasted image 20230604191700.png",
+    "External Materials/Simon_Bücher_Zusammenfassung.pdf",
     "External Materials/Drawing 2023-06-04 18.32.24.excalidraw.md",
     "External Materials/Personenkonstellation-1-1024x621.png",
     "Die Verwandlung Anki Cards.md",
-    "Index.md",
-    "Schachnovelle.md",
     "Schachnovelle Anki Cards.md",
     "External Materials/Pasted image 20230604175747.png",
-    "External Materials/Simon_Bücher_Zusammenfassung.pdf",
     "External Materials/Unbenannt.jpg",
     "Wer die Nachtigall Stört Anki Cards.md",
     "Wer die Nachtigall Stört.md",
-    "External Materials/Oliver Notion.md",
     "External Materials/Pasted image 20230601132314.png",
     "External Materials/Pasted image 20230604172400.png",
-    "External Materials/Pasted image 20230604172407.png",
-    "External Materials/Johannes_Bücher_Zusammenfassung.pdf",
-    "Untergang des Hauses Usher.md",
     "Clockwork Orange.md",
     "Miss Maudie.md",
     "Francis.md",
-    "Walter Cunningham.md",
-    "Burris Ewell.md",
-    "Miss Caroline.md",
-    "Arthur 'Boo' Radley.md",
-    "Miss Rachel Haverford.md",
-    "Charles Baker Harris aka Dill.md",
-    "Ludovico Method.md",
-    "External Materials/schaefer_clock-3.jpg",
-    "Excalidraw/Drawing 2023-06-04 12.47.18.excalidraw.md",
-    "Das vierte Gebot.md",
-    "Der Report der Magd.md",
     "Excalidraw",
-    "Day Planners/Day Planner-20230604.md",
-    "Der Verschwender.md",
-    "Der Vorleser.md",
     "Personenkonstellation Clockwork Orange.canvas",
-    "External Materials/schaefer_clock-3 1.jpg",
     "External Materials",
     "Day Planners"
   ]
