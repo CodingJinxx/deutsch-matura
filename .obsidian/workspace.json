@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "bf1286108f53729d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Francis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "679e90f15224d179",
             "type": "leaf",
             "state": {
@@ -300,8 +312,10 @@
   },
   "active": "a4fb959c68eb4c6e",
   "lastOpenFiles": [
-    "Wer die Nachtigall Stört Anki Cards.md",
+    "Francis.md",
     "Wer die Nachtigall Stört.md",
+    "Miss Maudie.md",
+    "Wer die Nachtigall Stört Anki Cards.md",
     "Walter Cunningham.md",
     "Burris Ewell.md",
     "Miss Caroline.md",
@@ -330,8 +344,6 @@
     "Der Report der Magd Anki Cards.md",
     "Clockwork Orange.md",
     "Nadsat Sprache.md",
-    "Der Vorleser Anki Cards.md",
-    "Clockwork Orange Anki Cards.md",
     "Personenkonstellation Clockwork Orange.canvas",
     "External Materials/schaefer_clock-3 1.jpg",
     "External Materials",
