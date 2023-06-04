@@ -57,3 +57,6 @@ Dr. B will aus **Angst** vor einem Rückfall in den Wahn nicht gegen Mirko spiel
 - Verliert gegen Mirko im Schach
 - 
 ![[Pasted image 20230604175747.png]]
+
+# Quellen
+https://studyflix.de/deutsch/schachnovelle-zusammenfassung-4995

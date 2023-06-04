@@ -23,9 +23,17 @@
             "id": "7688cfb6b9c903e4",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "207536f7c88d7dc8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Die Verwandlung.md",
+                "file": "Die Verwandlung Anki Cards.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +222,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Die Verwandlung.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,9 +255,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Die Verwandlung.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -276,7 +281,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Die Verwandlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +297,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Die Verwandlung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -320,9 +323,13 @@
   },
   "active": "7688cfb6b9c903e4",
   "lastOpenFiles": [
+    "Die Verwandlung.md",
+    "External Materials/Drawing 2023-06-04 18.32.24.excalidraw.md",
+    "External Materials/Personenkonstellation-1-1024x621.png",
+    "Die Verwandlung Anki Cards.md",
     "Index.md",
-    "Schachnovelle Anki Cards.md",
     "Schachnovelle.md",
+    "Schachnovelle Anki Cards.md",
     "External Materials/Pasted image 20230604175747.png",
     "External Materials/Simon_Bücher_Zusammenfassung.pdf",
     "External Materials/Unbenannt.jpg",
@@ -349,12 +356,9 @@
     "Das vierte Gebot.md",
     "Der Report der Magd.md",
     "Excalidraw",
-    "Die Verwandlung.md",
     "Day Planners/Day Planner-20230604.md",
     "Der Verschwender.md",
     "Der Vorleser.md",
-    "Der Trafikant.md",
-    "Econowives.md",
     "Personenkonstellation Clockwork Orange.canvas",
     "External Materials/schaefer_clock-3 1.jpg",
     "External Materials",
