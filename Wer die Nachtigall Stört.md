@@ -186,6 +186,10 @@ Mr Raymond
 
 Priester/Reverend Sykes
 
+# Personenkonstellation
+![[Pasted image 20230604172400.png]]
+![[Pasted image 20230604172407.png]]
+
 # Flashcards
 [[Wer die Nachtigall Stört Anki Cards]]
 

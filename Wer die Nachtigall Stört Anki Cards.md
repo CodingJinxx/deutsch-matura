@@ -156,3 +156,62 @@ A: Mr. Dolphus Raymond offenbart, dass er aus einem Papiersack trinkt, aber das 
 Q: Wie endet Atticus' Plädoyer? 
 A: Atticus beendet sein Plädoyer mit einem persönlichen Appell an die Geschworenen. Er bittet sie, die Annahme des Staates zu vermeiden, dass alle Schwarzen Verbrecher sind, und Tom Robinson freizulassen, um Gerechtigkeit zu schaffen.
 <!--ID: 1685890955116-->
+
+Q: Warum ist Scout in Kapitel 24 mit einem Kleid gekleidet und warum ist sie bei den Damen anwesend?
+
+A: Scout trägt ein Kleid und ist bei den Damen anwesend, weil Tante Alexandra ihren Missionskreis zum Tee eingeladen hat und Scout helfen soll, den Tee zu servieren.
+<!--ID: 1685892482071-->
+
+
+Q: Wie reagiert Jem, als Scout einen Steinkäfer zerquetschen will, und was lehrt dies über seinen Charakter?
+
+A: Jem bittet Scout, den Käfer nicht zu zerquetschen, da dieser ihr nichts angetan hat. Dies zeigt, dass Jem ein Mitgefühl für alle Lebewesen hat und Fairness schätzt.
+<!--ID: 1685892482077-->
+
+
+Q: Wie erfährt die Stadt Maycomb von Toms Tod und wie reagieren die Menschen darauf?
+
+A: Die Stadt erfährt von Toms Tod durch Atticus, der die Nachricht verbreitet. Die meisten Menschen in Maycomb denken, es sei typisch für einen Schwarzen, so etwas Irrationales wie einen Fluchtversuch zu unternehmen.
+<!--ID: 1685892482080-->
+
+
+Q: Warum wird Bob Ewell wütend auf Atticus und was sind seine Aktionen nach dieser Wut?
+
+A: Bob Ewell wird wütend auf Atticus, weil er glaubt, dass Atticus ihm seinen Job bei der WPA genommen hat. Nach seiner Wut beginnt er, Helen Robinson zu verfolgen und sie mit Obszönitäten zu belästigen, und schleicht sich zudem um das Haus von Richter Taylor herum.
+<!--ID: 1685892482084-->
+
+
+Q: Wie endet das landwirtschaftliche Festzug, an dem Scout als Schinken teilnimmt, und was geschieht danach?
+
+A: Das landwirtschaftliche Festzug endet mit Scout, die ihren Auftritt verpasst, da sie eingeschlafen war. Nach dem Festzug wird sie und Jem auf dem Weg nach Hause von jemandem angegriffen.
+<!--ID: 1685892482088-->
+
+
+Q: Wer rettet Jem und Scout aus ihrer gefährlichen Situation auf dem Heimweg von der Schule?
+
+A: Boo Radley rettet Jem und Scout, indem er ihren Angreifer wegzieht und Jem anschließend nach Hause trägt.
+<!--ID: 1685892482092-->
+
+
+Q: Was geschah mit Bob Ewell und wer wurde ursprünglich verdächtigt, ihn getötet zu haben?
+
+A: Bob Ewell wurde unter einem Baum tot gefunden, mit einem Messer unter den Rippen. Ursprünglich wurde angenommen, dass Jem ihn getötet hat.
+<!--ID: 1685892482096-->
+
+
+Q: Wie endet die Auseinandersetzung zwischen Heck Tate und Atticus über Bobs Tod und warum?
+
+A: Heck Tate besteht darauf, Bobs Tod als Unfall darzustellen, um Boo Radley zu schützen, der tatsächlich Bob Ewell getötet hat. Er glaubt, dass Boo nicht die Aufmerksamkeit der Nachbarschaft benötigt.
+<!--ID: 1685892482101-->
+
+
+Q: Wie sieht Scout Boo Radley zum ersten Mal und was passiert danach?
+
+A: Scout sieht Boo Radley zum ersten Mal, als sie ihm erzählt, was passiert ist, und Heck Tate ihr Kostüm zeigt. Danach begleitet Scout Boo zu seinem Haus und kehrt dann nach Hause zurück, um bei Jem zu sein.
+<!--ID: 1685892482104-->
+
+
+Q: Wie endet der Roman?
+
+A: Der Roman endet damit, dass Scout Boo zu seinem Haus begleitet und dann zu Jem zurückkehrt. Atticus bleibt bei Jem und liest ihm ein Buch vor, während Scout einschläft.
+<!--ID: 1685892482108-->
