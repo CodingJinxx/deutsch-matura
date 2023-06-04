@@ -3,6 +3,10 @@ language: DE
 tags: book
 ---
 
+# Setting
+Alabama, Maycomb 1935
+Spottdrössel - Mockingjay
+
 # Kapitelzusammenfassung
 ## Kapitel 1
 Erzählt wird die Geschichte von einem jungen Mädchen namens Jean Louise Finch, die fast immer mit ihrem Spitznamen Scout angesprochen wird. Scout beginnt damit, die Umstände zu erklären, die zu dem gebrochenen Arm geführt haben, den sich ihr älterer Bruder Jem viele Jahre zuvor zugezogen hat, indem sie von ihrer Familiengeschichte erzählt. Der erste ihrer Vorfahren, der nach Amerika kam, war ein Pelzhändler und Apotheker namens Simon Finch, der aus England floh, um der religiösen Verfolgung zu entgehen, und eine erfolgreiche Farm am Ufer des Alabama River gründete. Die Farm, Finch's Landing genannt, ernährte die Familie viele Jahre lang. Die ersten Finchs, die ihren Lebensunterhalt außerhalb der Farm verdienten, waren Scouts Vater Atticus Finch, der Anwalt in der nahe gelegenen Stadt Maycomb wurde, und sein Bruder Jack Finch, der in Boston Medizin studierte. Ihre Schwester, Alexandra Finch, blieb, um das Landing zu leiten.
