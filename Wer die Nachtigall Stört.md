@@ -15,6 +15,17 @@ Arthur "Boo" Radley lebt in dem heruntergekommenen Haus Radley Place, und seit J
 
 Dill ist von Boo fasziniert und versucht, die Finch-Kinder davon zu überzeugen, ihm zu helfen, das Gespenst von Maycomb nach draußen zu locken. Schließlich fordert er Jem auf, hinüberzulaufen und das Haus zu berühren. Jem tut es und sprintet eilig zurück; im Haus der Radleys rührt sich nichts, obwohl Scout meint, einen Fensterladen leicht bewegen zu sehen, als ob jemand herausspähen würde.
 
+## Kapitel 2
+Der September bricht an, und Dill verlässt Maycomb, um in die Stadt Meridian zurückzukehren. Scout bereitet sich derweil darauf vor, zum ersten Mal in die Schule zu gehen, ein Ereignis, dem sie schon lange entgegengefiebert hat. In der Schule angekommen, muss sie jedoch feststellen, dass ihre Lehrerin, Miss Caroline Fisher, schlecht mit Kindern umgeht. Als Miss Caroline zu dem Schluss kommt, dass Atticus Scout das Lesen beigebracht haben muss, wird sie sehr ungehalten und macht Scout ein schlechtes Gewissen, weil sie gebildet ist. In der Pause beschwert sich Scout bei Jem, aber Jem sagt, dass Miss Caroline nur eine neue Unterrichtsmethode ausprobiert.
+
+Auch am Nachmittag kommen Miss Caroline und Scout schlecht miteinander aus. Walter Cunningham, ein Junge aus Scouts Klasse, hat sein Mittagessen nicht mitgebracht. Miss Caroline bietet ihm einen Vierteldollar für das Mittagessen an und sagt ihm, dass er es ihr morgen zurückzahlen kann. Walters Familie ist groß und arm - so arm, dass sie Atticus mit Hickorynüssen, Kohlrüben oder anderen Waren bezahlen, wenn sie juristische Hilfe benötigen - und Walter wird niemals in der Lage sein, der Lehrerin das Geld zurückzuzahlen oder ein Mittagessen in die Schule mitzubringen. Als Scout versucht, diese Umstände zu erklären, versteht Miss Caroline jedoch nicht und ist so frustriert, dass sie Scout mit einem Lineal auf die Hand schlägt.
+
+## Kapitel 3
+
+Beim Mittagessen reibt Scout Walter unter die Nase, weil er sie in Schwierigkeiten gebracht hat, aber Jem geht dazwischen und lädt Walter zum Mittagessen ein (im Roman wird die Mittagsmahlzeit, wie in bestimmten Regionen des Landes, "Abendessen" genannt). Im Haus der Finchs diskutieren Walter und Atticus über die Bedingungen auf der Farm "wie zwei Männer", und Walter verschüttet zu Scouts Entsetzen Melasse über sein Fleisch und Gemüse. Als sie Walter jedoch kritisiert, ruft Calpurnia sie in die Küche, um mit ihr zu schimpfen, und ohrfeigt sie, als sie in den Speisesaal zurückkehrt, und fordert sie auf, eine bessere Gastgeberin zu sein. Zurück in der Schule erschrickt Miss Caroline, als ein winziger Käfer, ein "Cootie", aus dem Haar eines Jungen krabbelt. Der Junge ist Burris Ewell, ein Mitglied des Ewell-Clans, der noch ärmer und weniger respektabel ist als der Cunningham-Clan. Tatsächlich kommt Burris nur am ersten Tag eines jeden Schuljahres in die Schule und erscheint nur zum Schein, um Ärger mit dem Gesetz zu vermeiden. Er verlässt das Klassenzimmer und macht dabei so viele boshafte Bemerkungen, dass die Lehrerin weinen muss.
+
+Zu Hause folgt Atticus Scout nach draußen, um sie zu fragen, ob etwas nicht stimmt, worauf sie antwortet, dass sie sich nicht wohl fühlt. Sie sagt ihm, dass sie nicht mehr zur Schule gehen wird und schlägt vor, dass er sie selbst unterrichten könnte. Atticus entgegnet, dass sie laut Gesetz in die Schule gehen muss, aber er verspricht, ihr weiter vorzulesen, solange sie ihrem Lehrer nichts davon erzählt.
+
 # Charactere
 Jean Louise Finch aka Scout - Protagonist
 Jem Finch - Bruder 
@@ -25,11 +36,17 @@ Calpurnia, Koch für Atticus, erzieht die Kinder
 Atticus seine Frau starb als Scout 2 war bzw Jem 6
 
 
-Charles Baker Harris aka Dill, befreundet mit Jem und Scout
-Miss Rachel Haverford, Tante von Dill
+[[Charles Baker Harris aka Dill]],
+[[Miss Rachel Haverford]], 
+[[Arthur 'Boo' Radley]]
 
-[[Arthur 'Boo' Radley]], mysterioser nachbar, 
+[[Miss Caroline]]
 
+[[Walter Cunningham]]
+[[Burris Ewell]]
+
+# Flashcards
+[[Wer die Nachtigall Stört Anki Cards]]
 
 # Quellen
 https://www.sparknotes.com/search?q=To%20Kill%20a%20Mockingbird
