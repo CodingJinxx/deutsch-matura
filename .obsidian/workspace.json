@@ -20,26 +20,22 @@
             }
           },
           {
-            "id": "c2c6d30125e383c4",
+            "id": "a4fb959c68eb4c6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Der Report der Magd.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-06-04 12.47.18.excalidraw.md"
               }
             }
           },
           {
-            "id": "a4fb959c68eb4c6e",
+            "id": "38fea04fd62e2569",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Wer die Nachtigall Stört.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-06-04 12.47.18.excalidraw.md"
               }
             }
           },
@@ -88,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cae2f98dd6e09580",
@@ -160,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Wer die Nachtigall Stört.md",
+                "file": "Excalidraw/Drawing 2023-06-04 12.47.18.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wer die Nachtigall Stört.md"
+                "file": "Excalidraw/Drawing 2023-06-04 12.47.18.excalidraw.md"
               }
             }
           }
@@ -222,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wer die Nachtigall Stört.md",
+                "file": "Excalidraw/Drawing 2023-06-04 12.47.18.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wer die Nachtigall Stört.md",
+                "file": "Excalidraw/Drawing 2023-06-04 12.47.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,27 +257,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a4fb959c68eb4c6e",
   "lastOpenFiles": [
+    "Das vierte Gebot.md",
     "Index.md",
-    "Die Verwandlung.md",
-    "Der Verschwender.md",
+    "Excalidraw/Drawing 2023-06-04 12.47.18.excalidraw.md",
     "Der Report der Magd.md",
+    "Excalidraw",
+    "Die Verwandlung.md",
+    "External Materials/Johannes_Bücher_Zusammenfassung.pdf",
     "External Materials/Oliver Notion.md",
+    "Wer die Nachtigall Stört.md",
+    "Day Planners/Day Planner-20230604.md",
+    "Der Verschwender.md",
     "External Materials/Pasted image 20230601132314.png",
     "External Materials/schaefer_clock-3.jpg",
     "External Materials/Simon_Bücher_Zusammenfassung.pdf",
     "External Materials/Unbenannt.jpg",
-    "Wer die Nachtigall Stört.md",
     "Der Vorleser.md",
-    "External Materials/Johannes_Bücher_Zusammenfassung.pdf",
     "Untergang des Hauses Usher.md",
     "Der Trafikant.md",
     "Econowives.md",
-    "Das vierte Gebot.md",
     "Der Report der Magd Anki Cards.md",
     "Clockwork Orange.md",
     "Nadsat Sprache.md",
