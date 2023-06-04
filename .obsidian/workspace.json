@@ -23,9 +23,23 @@
             "id": "a4fb959c68eb4c6e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-04 12.47.18.excalidraw.md"
+                "file": "Wer die Nachtigall Stört.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4c46b5bbe7a94fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arthur 'Boo' Radley.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -84,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cae2f98dd6e09580",
@@ -157,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-04 12.47.18.excalidraw.md",
+                "file": "Arthur 'Boo' Radley.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-04 12.47.18.excalidraw.md"
+                "file": "Arthur 'Boo' Radley.md"
               }
             }
           }
@@ -219,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-04 12.47.18.excalidraw.md",
+                "file": "Arthur 'Boo' Radley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-06-04 12.47.18.excalidraw.md",
+                "file": "Arthur 'Boo' Radley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,20 +274,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a4fb959c68eb4c6e",
+  "active": "c4c46b5bbe7a94fb",
   "lastOpenFiles": [
-    "Das vierte Gebot.md",
+    "Wer die Nachtigall Stört.md",
+    "Arthur 'Boo' Radley.md",
     "Index.md",
+    "External Materials/Pasted image 20230601132314.png",
+    "External Materials/Johannes_Bücher_Zusammenfassung.pdf",
+    "External Materials/Oliver Notion.md",
     "Excalidraw/Drawing 2023-06-04 12.47.18.excalidraw.md",
+    "Das vierte Gebot.md",
     "Der Report der Magd.md",
     "Excalidraw",
     "Die Verwandlung.md",
-    "External Materials/Johannes_Bücher_Zusammenfassung.pdf",
-    "External Materials/Oliver Notion.md",
-    "Wer die Nachtigall Stört.md",
     "Day Planners/Day Planner-20230604.md",
     "Der Verschwender.md",
-    "External Materials/Pasted image 20230601132314.png",
     "External Materials/schaefer_clock-3.jpg",
     "External Materials/Simon_Bücher_Zusammenfassung.pdf",
     "External Materials/Unbenannt.jpg",
