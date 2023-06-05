@@ -1,1 +1,5 @@
-Ist eine Gehirnwäsche Methode
+Die Ludovico-Methode ist eine fiktive Behandlungsmethode, die in dem Roman "A Clockwork Orange" von Anthony Burgess vorgestellt wird. Sie wird auch in der gleichnamigen Verfilmung von Stanley Kubrick dargestellt. Die Methode ist eine extreme Form der Konditionierung, die darauf abzielt, Gewalttäter zu "heilen" und ihr gewalttätiges Verhalten zu unterdrücken.
+
+In der Geschichte wird der Hauptcharakter, Alex DeLarge, einer experimentellen Behandlung mit der Ludovico-Methode unterzogen. Die Behandlung besteht aus der Verabreichung eines Medikaments, das Übelkeit und Unwohlsein verursacht, während dem Patienten gewalttätige Szenen gezeigt werden. Diese Szenen werden speziell ausgewählt, um negative Assoziationen mit Gewalt zu schaffen. Dadurch soll der Patient eine aversive Reaktion auf Gewalt entwickeln.
+
+Während der Behandlung wird Alex auch physisch festgeschnallt und kann sich nicht bewegen oder wegsehen. Dies verstärkt die Unannehmlichkeit und das Gefühl der Ohnmacht. Das Ziel der Ludovico-Methode ist es, eine Verbindung zwischen Gewalt und negativen Empfindungen herzustellen, um den Patienten davon abzuhalten, gewalttätiges Verhalten auszuüben.

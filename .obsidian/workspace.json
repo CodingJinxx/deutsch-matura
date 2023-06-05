@@ -89,9 +89,11 @@
             "id": "90075eeb2536501c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PDFs/Zusammenschrift_Deutsch.pdf"
+                "file": "Books/Clockwork Orange/Ludovico Method.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -249,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PDFs/Zusammenschrift_Deutsch.pdf",
+                "file": "Books/Clockwork Orange/Ludovico Method.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -284,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDFs/Zusammenschrift_Deutsch.pdf"
+                "file": "Books/Clockwork Orange/Ludovico Method.md"
               }
             }
           }
@@ -311,7 +313,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDFs/Zusammenschrift_Deutsch.pdf",
+                "file": "Books/Clockwork Orange/Ludovico Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -328,7 +330,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDFs/Zusammenschrift_Deutsch.pdf",
+                "file": "Books/Clockwork Orange/Ludovico Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -355,8 +357,8 @@
   },
   "active": "90075eeb2536501c",
   "lastOpenFiles": [
-    "PDFs/Stoffgebiet_mündliche Matura_2023.pdf",
     "PDFs/Zusammenschrift_Deutsch.pdf",
+    "PDFs/Stoffgebiet_mündliche Matura_2023.pdf",
     "PDFs/Verbrechensliteratur.pdf",
     "Literature/Phantastiche Literatur.md",
     "PDFs/Phantastische Literatur_Kategorien.pdf",
