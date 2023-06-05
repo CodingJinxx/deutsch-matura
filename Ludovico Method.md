@@ -1,1 +1,0 @@
-Ist eine Gehirnwäsche Methode

@@ -6,7 +6,6 @@
       {
         "id": "4d7cb1bc1f621de5",
         "type": "tabs",
-        "dimension": 8.412866737363025,
         "children": [
           {
             "id": "d678fce68d77a772",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schachnovelle.md",
+                "file": "Books/Schachnovelle/Schachnovelle.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,30 +26,6 @@
               "type": "markdown",
               "state": {
                 "file": "GPT Fragen Prompt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49340a8b302b704d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Im Westen nichts Neues Anki Cards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8164fef8c3559ff3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Im Westen nichts Neues.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Die Verwandlung Anki Cards.md",
+                "file": "Books/Die Verwandlung/Die Verwandlung Anki Cards.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,19 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Francis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "679e90f15224d179",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Walter Cunningham.md",
+                "file": "Books/Wer die Nachtigall stört/Francis.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Burris Ewell.md",
+                "file": "Books/Wer die Nachtigall stört/Burris Ewell.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,21 +89,9 @@
             "id": "90075eeb2536501c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Charles Baker Harris aka Dill.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38fea04fd62e2569",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-06-04 12.47.18.excalidraw.md"
+                "file": "PDFs/Zusammenschrift_Deutsch.pdf"
               }
             }
           },
@@ -150,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clockwork Orange.md",
+                "file": "Books/Clockwork Orange/Clockwork Orange.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Der Report der Magd.md",
+                "file": "Books/Der Report der Magd/Der Report der Magd.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ludovico Method.md",
+                "file": "Books/Clockwork Orange/Ludovico Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,74 +140,44 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       },
       {
-        "id": "9ed1a8a935aa73c4",
+        "id": "75bd7bd406c46fa5",
         "type": "tabs",
-        "dimension": 7.069635913750442,
         "children": [
           {
-            "id": "7688cfb6b9c903e4",
+            "id": "49340a8b302b704d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "External Materials/Oliver Notion.md",
-                "mode": "source",
-                "source": false
+                "file": "PDFs/Erzählformen und Erzählperspektiven.pdf"
               }
             }
           },
           {
-            "id": "b56a5c5747ab6d0d",
+            "id": "679e90f15224d179",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5e99b743043e711f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Traumnovelle.md",
-                "mode": "source",
-                "source": false
+                "file": "PDFs/Merkmale_Novelle.pdf"
               }
             }
           },
           {
-            "id": "9e41018b2d2ed784",
+            "id": "38fea04fd62e2569",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "PDFs/Phantastische Literatur_Kategorien.pdf"
+              }
             }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "61874830dd219cb0",
-        "type": "tabs",
-        "dimension": 84.51749734888652,
-        "children": [
-          {
-            "id": "67c9a76bdb3be770",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Der Verschwender.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -312,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 534.5
   },
   "right": {
     "id": "cae2f98dd6e09580",
@@ -328,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Der Verschwender.md",
+                "file": "PDFs/Zusammenschrift_Deutsch.pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -363,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Der Verschwender.md"
+                "file": "PDFs/Zusammenschrift_Deutsch.pdf"
               }
             }
           }
@@ -390,7 +311,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Der Verschwender.md",
+                "file": "PDFs/Zusammenschrift_Deutsch.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -407,7 +328,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Der Verschwender.md",
+                "file": "PDFs/Zusammenschrift_Deutsch.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -432,49 +353,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67c9a76bdb3be770",
+  "active": "90075eeb2536501c",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20230605.md",
-    "Der Verschwender Anki Cards.md",
-    "Der Verschwender.md",
+    "PDFs/Stoffgebiet_mündliche Matura_2023.pdf",
+    "PDFs/Zusammenschrift_Deutsch.pdf",
+    "PDFs/Verbrechensliteratur.pdf",
+    "Literature/Phantastiche Literatur.md",
+    "PDFs/Phantastische Literatur_Kategorien.pdf",
+    "Literature/Literatur.md",
+    "Literature/Merkmale Novelle.md",
+    "Books/Wer die Nachtigall stört/Charles Baker Harris aka Dill.md",
+    "Excalidraw/Drawing 2023-06-04 12.47.18.excalidraw.md",
+    "PDFs/Merkmale_Novelle.pdf",
+    "Literature/Erzählformen und Erzählperspektiven.md",
+    "PDFs/Erzählformen und Erzählperspektiven.pdf",
+    "PDFs/Dramentheorie.pdf",
+    "Literature/Dramentheorie.md",
+    "Books/Wer die Nachtigall stört/Walter Cunningham.md",
     "Index.md",
-    "External Materials/Pasted image 20230604202928.png",
-    "External Materials/Johannes_Bücher_Zusammenfassung.pdf",
-    "Traumnovelle Anki Cards.md",
-    "Traumnovelle.md",
-    "External Materials/Oliver Notion.md",
+    "Literature",
+    "PDFs/Erzählformen und Erzählperspektiven 1.pdf",
+    "Books/Im westen nichts neues/Im Westen nichts Neues Anki Cards.md",
+    "PDFs/Sepp/Biedermaier_Vormärz_Realismus.pdf",
+    "Book Research.md",
+    "Books/Der Verschwender/Der Verschwender Anki Cards.md",
+    "Books/Wer die Nachtigall stört/Wer die Nachtigall Stört.md",
+    "Books/Untergang des Hauses Usher/Untergang des Hauses Usher.md",
+    "Books/Traumnovelle/Traumnovelle.md",
+    "Books/Schachnovelle/Schachnovelle.md",
+    "Books/Clockwork Orange/Nadsat Sprache.md",
+    "Books/Wer die Nachtigall stört/Miss Caroline.md",
     "GPT Fragen Prompt.md",
-    "Der Trafikant Anki Cards.md",
-    "Im Westen nichts Neues Anki Cards.md",
-    "Das vierte Gebot.md",
-    "Der Trafikant.md",
-    "Die Verwandlung.md",
-    "Das vierte Gebot Anki Cards.md",
+    "Books/Clockwork Orange/Ludovico Method.md",
+    "Books/Im westen nichts neues/Im Westen nichts Neues.md",
+    "Books/Wer die Nachtigall stört/Francis.md",
+    "Books/Der Report der Magd/Econowives.md",
+    "Books/Die Verwandlung/Die Verwandlung.md",
+    "Books/Der Vorleser/Der Vorleser.md",
+    "External Materials/Pasted image 20230604202928.png",
     "External Materials/Pasted image 20230604200003.png",
-    "Im Westen nichts Neues.md",
-    "Schachnovelle.md",
     "External Materials/Pasted image 20230604194401.png",
-    "Untergang des Hauses Usher.md",
-    "Der Vorleser.md",
     "External Materials/Pasted image 20230604193231.png",
-    "Untergang des Hauses Usher Anki Cards.md",
     "External Materials/Pasted image 20230604191700.png",
-    "External Materials/Simon_Bücher_Zusammenfassung.pdf",
-    "External Materials/Drawing 2023-06-04 18.32.24.excalidraw.md",
     "External Materials/Personenkonstellation-1-1024x621.png",
-    "Die Verwandlung Anki Cards.md",
-    "Schachnovelle Anki Cards.md",
     "External Materials/Pasted image 20230604175747.png",
     "External Materials/Unbenannt.jpg",
-    "Wer die Nachtigall Stört Anki Cards.md",
-    "Wer die Nachtigall Stört.md",
     "External Materials/Pasted image 20230601132314.png",
     "External Materials/Pasted image 20230604172400.png",
-    "Clockwork Orange.md",
-    "Miss Maudie.md",
-    "Excalidraw",
-    "Personenkonstellation Clockwork Orange.canvas",
-    "External Materials",
-    "Day Planners"
+    "Personenkonstellation Clockwork Orange.canvas"
   ]
 }
